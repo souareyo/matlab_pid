@@ -399,7 +399,7 @@ This table contains the symbols, the constants and their units and description. 
 |-
 |<math>J_{m}</math>
 
-|Defines the moment of enertia of motor 
+|Defines the moment of enertia of  hydraulic motor 
 |<math>-</math>
 |<math>kgm^2</math>
 |
